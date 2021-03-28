@@ -8,7 +8,7 @@
 **Technology:** React, React Hooks, Firebase Hosting, Stripe Payment, Node.js, MongoDB\
 **Tools:** VSCode, Git, Netlify, Firebase, Heroku.
 
-**Live Link:** [Ema-John-Simple]()\
+**Live Link:** [Ema-John-Simple](https://ema-john-simple-cc053.web.app/)\
 **Font-end Repository:** [Ema-John-Simple](https://github.com/shahnewaz171/ema-john-simple)
 
 

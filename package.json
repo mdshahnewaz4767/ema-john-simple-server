@@ -3,17 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "dependencies": {
-    "body-parser": "^1.19.0",
-    "cors": "^2.8.5",
-    "dotenv": "^8.2.0",
-    "express": "^4.17.1",
-    "mongo": "^0.1.0",
-    "nodemailer": "^6.5.0"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.7"
-  },
   "scripts": {
     "start": "node index.js",
     "start:dev": "nodemon index.js",
@@ -27,6 +16,17 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mdshahnewaz4767/ema-john-simple-server/issues"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongo": "^0.1.0",
+    "nodemailer": "^6.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
   },
   "homepage": "https://github.com/mdshahnewaz4767/ema-john-simple-server#readme"
 }
